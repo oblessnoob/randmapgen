@@ -1,0 +1,86 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 32
+TimelineZoom: 1.7
+
+[Metadata]
+Title:mute
+TitleUnicode:mute
+Artist:obless_noob
+ArtistUnicode:obless_noob
+Creator:SCORE V2 SUCKS
+Version:position
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:8
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,375,4,2,0,100,1,0
+
+
+[HitObjects]
+434,192,0,5,0,0:0:0:0:
+431,157,93,1,0,0:0:0:0:
+420,123,187,1,0,0:0:0:0:
+404,92,281,1,0,0:0:0:0:
+382,65,375,1,0,0:0:0:0:
+355,43,468,1,0,0:0:0:0:
+324,27,562,1,0,0:0:0:0:
+290,16,656,1,0,0:0:0:0:
+256,13,750,1,0,0:0:0:0:
+221,16,843,1,0,0:0:0:0:
+187,27,937,1,0,0:0:0:0:
+156,43,1031,1,0,0:0:0:0:
+129,65,1125,1,0,0:0:0:0:
+107,92,1218,1,0,0:0:0:0:
+91,123,1312,1,0,0:0:0:0:
+80,157,1406,1,0,0:0:0:0:
+77,191,1500,1,0,0:0:0:0:
+80,226,1593,1,0,0:0:0:0:
+91,260,1687,1,0,0:0:0:0:
+107,291,1781,1,0,0:0:0:0:
+129,318,1875,1,0,0:0:0:0:
+156,340,1968,1,0,0:0:0:0:
+187,356,2062,1,0,0:0:0:0:
+221,367,2156,1,0,0:0:0:0:
+255,370,2250,1,0,0:0:0:0:
+290,367,2343,1,0,0:0:0:0:
+324,356,2437,1,0,0:0:0:0:
+355,340,2531,1,0,0:0:0:0:
+382,318,2625,1,0,0:0:0:0:
+404,291,2718,1,0,0:0:0:0:
+420,260,2812,1,0,0:0:0:0:
+431,226,2906,1,0,0:0:0:0:
